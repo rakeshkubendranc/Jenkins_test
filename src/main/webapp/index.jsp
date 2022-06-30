@@ -1,4 +1,4 @@
-<h1>Welcome to codesign pipline infratestdemo241</h1>
+<h1>Welcome to codesign pipline infratest</h1>
 <li>id: <span id="_id"></span></li>
 <li>name: <span id="_name"></span></li>
 
